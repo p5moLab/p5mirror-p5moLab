@@ -1,4 +1,4 @@
-# [p5mirror](https://github.com/molab-itp/p5mirror)
+# [p5mirror-p5moLab](https://github.com/p5moLab/p5mirror-p5moLab)
 
 ## How ? Quick start
 
