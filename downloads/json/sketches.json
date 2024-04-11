@@ -2,7 +2,7 @@
   {
     "name": "Water bonobo",
     "_id": "m5CKtY0uE",
-    "updatedAt": "2024-04-11T20:25:57.671Z",
+    "updatedAt": "2024-04-11T20:28:09.705Z",
     "files": [
       {
         "name": "root",
@@ -14,19 +14,19 @@
         ],
         "fileType": "folder",
         "_id": "6618472e0e2fbb1cd5ec388c",
-        "createdAt": "2024-04-11T20:25:57.671Z",
-        "updatedAt": "2024-04-11T20:25:57.671Z",
+        "createdAt": "2024-04-11T20:28:09.705Z",
+        "updatedAt": "2024-04-11T20:28:09.705Z",
         "id": "6618472e0e2fbb1cd5ec388c"
       },
       {
         "name": "sketch.js",
-        "content": "function setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background(220);\n}",
+        "content": "function setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background('red');\n}",
         "children": [],
         "fileType": "file",
         "_id": "6618472e0e2fbb1cd5ec3889",
         "isSelectedFile": true,
-        "createdAt": "2024-04-11T20:25:57.671Z",
-        "updatedAt": "2024-04-11T20:25:57.671Z",
+        "createdAt": "2024-04-11T20:28:09.705Z",
+        "updatedAt": "2024-04-11T20:28:09.705Z",
         "id": "6618472e0e2fbb1cd5ec3889"
       },
       {
@@ -35,8 +35,8 @@
         "children": [],
         "fileType": "file",
         "_id": "6618472e0e2fbb1cd5ec388a",
-        "createdAt": "2024-04-11T20:25:57.671Z",
-        "updatedAt": "2024-04-11T20:25:57.671Z",
+        "createdAt": "2024-04-11T20:28:09.705Z",
+        "updatedAt": "2024-04-11T20:28:09.705Z",
         "id": "6618472e0e2fbb1cd5ec388a"
       },
       {
@@ -45,8 +45,8 @@
         "children": [],
         "fileType": "file",
         "_id": "6618472e0e2fbb1cd5ec388b",
-        "createdAt": "2024-04-11T20:25:57.671Z",
-        "updatedAt": "2024-04-11T20:25:57.671Z",
+        "createdAt": "2024-04-11T20:28:09.705Z",
+        "updatedAt": "2024-04-11T20:28:09.705Z",
         "id": "6618472e0e2fbb1cd5ec388b"
       }
     ],
