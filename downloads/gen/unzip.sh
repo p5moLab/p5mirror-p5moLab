@@ -1,10 +1,10 @@
 cd "/Users/jht2/Documents/projects/2024/p5mo/p5mirror-p5moLab/downloads/../p5projects"
 #
-echo unzip 1 "Disco pamphlet-38Q6KH_qj"
-rm -rf "./Disco pamphlet-38Q6KH_qj"
-mkdir "./Disco pamphlet-38Q6KH_qj"
-pushd "./Disco pamphlet-38Q6KH_qj" > /dev/null
-unzip -q "../../downloads/zips/Disco pamphlet-38Q6KH_qj"
+echo unzip 1 "Water bonobo-m5CKtY0uE"
+rm -rf "./Water bonobo-m5CKtY0uE"
+mkdir "./Water bonobo-m5CKtY0uE"
+pushd "./Water bonobo-m5CKtY0uE" > /dev/null
+unzip -q "../../downloads/zips/Water bonobo-m5CKtY0uE"
 popd > /dev/null
 
 cd ..
