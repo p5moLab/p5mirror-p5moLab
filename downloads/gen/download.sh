@@ -1,2 +1,0 @@
-echo download 1 "Water bonobo-m5CKtY0uE"
-curl -s https://editor.p5js.org/editor/projects/m5CKtY0uE/zip -o "/Users/jht2/Documents/projects/2024/p5mo/p5mirror-p5moLab/downloads/zips/Water bonobo-m5CKtY0uE.zip"
