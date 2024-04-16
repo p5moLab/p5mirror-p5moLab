@@ -14,8 +14,15 @@ open https://nodejs.org/en/download
 
 bin/mirror.sh --user p5name
 
+# and then commit changes in github desktop
 
-bin/mirror.sh --user p5moLab
+```
+
+## Your mirror here
+
+```
+# Edit this line for your editor.p5js user name
+bin/mirror.sh --user p5name
 
 ```
 
